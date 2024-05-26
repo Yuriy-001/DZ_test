@@ -479,6 +479,7 @@
 			<Catalog>Товары</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>ХранимыеФайлы</Catalog>
+			<Catalog>СправочникДляГита</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
